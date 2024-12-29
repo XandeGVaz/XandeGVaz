@@ -100,3 +100,5 @@
 <br>
 
 ---
+
+![snake gif](https://github.com/XandeGVaz/XandeGVaz/blob/output/github-contribution-grid-snake.gif)
