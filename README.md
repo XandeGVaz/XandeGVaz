@@ -5,9 +5,7 @@
         display: flex;
         flex-flow: row wrap;
         justify-content: center;
-        align-content: center;    
-    " 
->
+        align-content: center;">
     <img 
         style="padding-right: 10px;"
         width="450px"  
@@ -36,9 +34,7 @@
         display: flex;
         flex-flow: row wrap;
         justify-content: center;
-        align-content: center;    
-    " 
->
+        align-content: center;">
     <img
         style="padding-right: 10px;"  
         height="40"     
