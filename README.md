@@ -26,11 +26,8 @@
 
 ### Tecnologias 🤖
 
-<div style="
-        display: flex;
-        flex-flow: row wrap;
-        justify-content: center;
-        align-content: center;">
+
+<div>
     <img
         style="padding-right: 10px;"  
         height="40"     
