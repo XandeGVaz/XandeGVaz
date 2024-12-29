@@ -1,12 +1,9 @@
 ## Olá 👋
  
 ### Estatísticas 📈
-<div style="
-        display: flex;
-        flex-flow: row wrap;
-        justify-content: center;
-        align-content: center;">
+<div>
     <img 
+        align="center"
         style="padding-right: 10px;"
         width="450px"  
         alt="Xande Stats"
@@ -14,14 +11,13 @@
         src="https://github-readme-stats.vercel.app/api?username=XandeGVaz&show_icons=true&theme=radical&include_all_commits=true&locale=pt-br" 
     />
     <img 
+        align="center"
         style="padding-right: 10px;"  
         width="400px"
         alt="Xande Lenguages"
         title="Xande Lenguages" 
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=XandeGVaz&hide_progress=true&theme=radical&locale=pt-br"
     />
-    
-
 </div>
 <br>
 
