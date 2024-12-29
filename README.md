@@ -59,40 +59,40 @@
         style="padding-right: 10px;" 
         height="40"     
         width="40" 
-        alt="c++"
-        title="c++" 
+        alt="c"
+        title="c" 
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-line.svg" 
     />
     <img  
         style="padding-right: 10px;" 
         height="40"     
         width="40" 
-        alt="c++"
-        title="c++" 
+        alt="html"
+        title="html" 
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"  
     />
     <img 
         style="padding-right: 10px;"  
         height="40"     
         width="40" 
-        alt="c++"
-        title="c++" 
+        alt="css"
+        title="css" 
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
     />
     <img  
         style="padding-right: 10px;" 
         height="40"     
         width="40" 
-        alt="c++"
-        title="c++" 
+        alt="git"
+        title="git" 
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
     />
      <img 
         style="padding-right: 10px;" 
         height="40"     
         width="40" 
-        alt="c++"
-        title="c++" 
+        alt="python"
+        title="python" 
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
     />            
 
