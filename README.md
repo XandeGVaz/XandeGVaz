@@ -3,7 +3,7 @@
 ### Estatísticas 📈
 <div style="
         display: flex;
-        flex-flow: row nowrap;
+        flex-flow: row wrap;
         justify-content: center;
         align-content: center;    
     " 
