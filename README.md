@@ -1,12 +1,12 @@
-## Olá 👋
+# Olá 👋
 
-### Perfil Acadêmico 📚
-<p>
-    Aluno de Engenharia de Computação - USP São Carlos
-</p>
-<p>
-    Este perfil visa reunir os projetos realizados durante a minha graduação. Espero que gostem! 
-</p> 
+### Perfil Acadêmico de Vitor Alexandre 📚
+
+
+`Aluno de Engenharia de Computação - USP São Carlos`
+
+
+`Este perfil visa reunir os projetos realizados durante a minha graduação. Espero que gostem!` 
 
 ### Estatísticas 📈
 <div>
@@ -31,7 +31,6 @@
 </div>
 <br>
 
----
 
 ### Tecnologias 🤖
 
@@ -97,6 +96,6 @@
 </div>
 <br>
 
----
+### Atividade 🪂
 
 ![snake gif](https://github.com/XandeGVaz/XandeGVaz/blob/output/github-contribution-grid-snake-dark.svg)
