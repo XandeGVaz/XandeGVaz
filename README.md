@@ -1,5 +1,13 @@
 ## Olá 👋
- 
+
+### Perfil Acadêmico 📚
+<p>
+    Aluno de Engenharia de Computação - USP São Carlos
+</p>
+<p>
+    Este perfil visa reunir os projetos realizados durante a minha graduação. Espero que gostem! 
+</p> 
+
 ### Estatísticas 📈
 <div>
     <img 
@@ -10,6 +18,8 @@
         title="Xande Stats" 
         src="https://github-readme-stats.vercel.app/api?username=XandeGVaz&show_icons=true&theme=radical&include_all_commits=true&locale=pt-br" 
     />
+    <br>
+    <br>
     <img 
         align="center"
         style="padding-right: 10px;"  
@@ -20,7 +30,6 @@
     />
 </div>
 <br>
-
 
 ---
 
