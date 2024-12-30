@@ -1,13 +1,15 @@
 # Olá 👋
 
-### Perfil Acadêmico de Vitor Alexandre 📚
+### **Perfil Acadêmico de Vitor Alexandre** 📚
 
 `Aluno de Engenharia de Computação - USP São Carlos`
 
 `Este perfil visa reunir os projetos realizados durante a minha graduação. Espero que gostem!`
 <br>
 
-### Estatísticas 📈
+---
+
+### **Estatísticas** 📈
 
 <div>
     <img 
@@ -30,59 +32,67 @@
 </div>
 <br>
 
-### Tecnologias 🤖
+---
+
+### **Tecnologias** 🤖
 
 <div align="center">
     <img
-        style="padding-right: 40px;"  
+        style="padding-right: 10px;"  
         height="40"     
         width="40" 
         alt="c++"
         title="c++" 
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" 
     />
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img
-        style="padding-right: 40px;" 
+        style="padding-right: 10px;" 
         height="40"     
         width="40" 
         alt="arduino IDE"
         title="arduino IDE" 
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg"    
     />
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img 
-        style="padding-right: 40px;" 
+        style="padding-right: 10px;" 
         height="40"     
         width="40" 
         alt="c"
         title="c" 
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-line.svg" 
     />
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img  
-        style="padding-right: 40px;" 
+        style="padding-right: 10px;" 
         height="40"     
         width="40" 
         alt="html"
         title="html" 
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"  
     />
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img 
-        style="padding-right: 40px;"  
+        style="padding-right: 10px;"  
         height="40"     
         width="40" 
         alt="css"
         title="css" 
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
     />
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img  
-        style="padding-right: 40px;" 
+        style="padding-right: 10px;" 
         height="40"     
         width="40" 
         alt="git"
         title="git" 
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
     />
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img 
-        style="padding-right: 40px;" 
+        style="padding-right: 10px;" 
         height="40"     
         width="40" 
         alt="python"
@@ -92,7 +102,9 @@
 </div>
 <br>
 
-### Contato 📩
+---
+
+### **Contato** 📩
 
 <p align="center">
 <a href = "mailto:vitorgarciavaz@gmail.com">
@@ -116,6 +128,8 @@
 </p>
 <br>
 
-### Atividade 🪂
+---
+
+### **Atividade** 🪂
 
 ![snake gif](https://github.com/XandeGVaz/XandeGVaz/blob/output/github-contribution-grid-snake-dark.svg)
