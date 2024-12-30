@@ -4,7 +4,7 @@
 
 * `Aluno de Engenharia de Computação - USP São Carlos`
 
-* `Este perfil visa reunir os projetos realizados durante a minha graduação. Espero que gostem!`
+* `Perfil que visa reunir os projetos realizados durante a minha graduação. Espero que gostem!`
 <br>
 
 ---
