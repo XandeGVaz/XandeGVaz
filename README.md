@@ -5,6 +5,7 @@
 `Aluno de Engenharia de Computação - USP São Carlos`
 
 `Este perfil visa reunir os projetos realizados durante a minha graduação. Espero que gostem!`
+<br>
 
 ### Estatísticas 📈
 
@@ -31,7 +32,7 @@
 
 ### Tecnologias 🤖
 
-<div>
+<div align="center">
     <img
         style="padding-right: 40px;"  
         height="40"     
@@ -88,13 +89,12 @@
         title="python" 
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
     />
-
 </div>
 <br>
 
 ### Contato 📩
 
-<p align="left">
+<p align="center">
 <a href = "mailto:vitorgarciavaz@gmail.com">
     <img 
         src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" 
@@ -113,8 +113,8 @@
         target="_blank"
     >
 </a>
-
 </p>
+<br>
 
 ### Atividade 🪂
 
