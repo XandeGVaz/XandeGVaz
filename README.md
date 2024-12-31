@@ -15,7 +15,7 @@
     <img 
         align="center"
         style="padding-right: 10px;"
-        width="450px"  
+        width="550px"
         alt="Xande Stats"
         title="Xande Stats" 
         src="https://github-readme-stats.vercel.app/api?username=XandeGVaz&show_icons=true&theme=radical&include_all_commits=true&locale=pt-br" 
