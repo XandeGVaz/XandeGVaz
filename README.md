@@ -24,7 +24,7 @@
     <br>
     <img 
         align="center"
-        width="400px"
+        width="450px"
         alt="Xande Lenguages"
         title="Xande Lenguages" 
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=XandeGVaz&hide_progress=true&theme=radical&locale=pt-br"
