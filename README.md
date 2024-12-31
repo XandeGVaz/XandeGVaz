@@ -11,7 +11,7 @@
 
 ### **Estatísticas** 📈
 
-<div>
+<div align="center">
     <img 
         align="center"
         style="padding-right: 10px;"
