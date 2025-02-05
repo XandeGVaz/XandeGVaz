@@ -1,21 +1,16 @@
-# Olá 👋
+# Olá ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 
-### **Perfil Acadêmico de Vitor Alexandre** 📚
+### **`Perfil acadêmico de Vitor Alexandre`** 💻
 
-* `Aluno de Engenharia de Computação - USP São Carlos`
-
-* `Perfil que visa reunir os projetos realizados durante a minha graduação. Espero que gostem!`
-<br>
-
----
+- 🏫 Aluno de Engenharia de Computação - USP São Carlos
+- ✅ Busco reunir aqui projetos realizados durante a minha graduação. Espero que gostem!
 
 ### **Estatísticas** 📈
-
-<div align="center">
+<div align="left">
     <img 
         align="center"
         style="padding-right: 10px;"
-        width="550px"
+        width="400px"
         alt="Xande Stats"
         title="Xande Stats" 
         src="https://github-readme-stats.vercel.app/api?username=XandeGVaz&show_icons=true&theme=radical&include_all_commits=true&locale=pt-br" 
@@ -24,89 +19,77 @@
     <br>
     <img 
         align="center"
-        width="450px"
+        width="400px"
         alt="Xande Lenguages"
         title="Xande Lenguages" 
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=XandeGVaz&hide_progress=true&theme=radical&locale=pt-br"
     />
 </div>
-<br>
 
----
 
 ### **Tecnologias** 🤖
-
-<div align="center">
+<div align="left">
     <img
-        style="padding-right: 10px;"  
-        height="40"     
-        width="40" 
+        style="padding-right: 2px;"  
+        height="30"     
+        width="30" 
         alt="c++"
         title="c++" 
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" 
     />
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img
-        style="padding-right: 10px;" 
-        height="40"     
-        width="40" 
+        style="padding-right: 2px;" 
+        height="30"     
+        width="30" 
         alt="arduino IDE"
         title="arduino IDE" 
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg"    
     />
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img 
-        style="padding-right: 10px;" 
-        height="40"     
-        width="40" 
+        style="padding-right: 2px;" 
+        height="30"     
+        width="30" 
         alt="c"
         title="c" 
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-line.svg" 
     />
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img  
-        style="padding-right: 10px;" 
-        height="40"     
-        width="40" 
+        style="padding-right: 2px;" 
+        height="30"     
+        width="30" 
         alt="html"
         title="html" 
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"  
     />
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img 
-        style="padding-right: 10px;"  
-        height="40"     
-        width="40" 
+        style="padding-right: 2px;"  
+        height="30"     
+        width="30" 
         alt="css"
         title="css" 
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
     />
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img  
-        style="padding-right: 10px;" 
-        height="40"     
-        width="40" 
+        style="padding-right: 2px;" 
+        height="30"     
+        width="30" 
         alt="git"
         title="git" 
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
     />
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img 
         style="padding-right: 10px;" 
-        height="40"     
-        width="40" 
+        height="30"     
+        width="30" 
         alt="python"
         title="python" 
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
     />
 </div>
-<br>
-
----
 
 ### **Contato** 📩
 
-<p align="center">
+<p align="left">
 <a href = "mailto:vitorgarciavaz@gmail.com">
     <img 
         src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" 
@@ -126,9 +109,6 @@
     >
 </a>
 </p>
-<br>
-
----
 
 ### **Atividade** 🪂
 
